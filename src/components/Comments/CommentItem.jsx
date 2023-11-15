@@ -59,7 +59,7 @@ const styles = StyleSheet.create({
         gap: 8,
     },
     comment: {
-        marginBottom: 8,
+        marginBottom: 7,
         fontFamily: 'Roboto-Regular',
         color: '#212121',
         fontSize: 13,
