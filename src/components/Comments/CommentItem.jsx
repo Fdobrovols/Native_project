@@ -56,7 +56,7 @@ const styles = StyleSheet.create({
         borderRadius: 6,
         backgroundColor: 'rgba(0, 0, 0, 0.03)',
         padding: 14,
-        gap: 8,
+        gap: 5,
     },
     comment: {
         marginBottom: 7,
