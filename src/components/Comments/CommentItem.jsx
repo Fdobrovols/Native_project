@@ -47,7 +47,7 @@ const styles = StyleSheet.create({
     },
     avatar: {
         width: 28,
-        height: 28,
+        height: 26,
         borderRadius: 28,
     },
     commentWrap: {
