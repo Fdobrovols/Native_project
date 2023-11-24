@@ -44,6 +44,7 @@ const styles = StyleSheet.create({
         flexDirection: 'row',
         marginBottom: 24,
         gap: 16,
+        width: 28,
     },
     avatar: {
         width: 28,
