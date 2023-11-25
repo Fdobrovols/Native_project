@@ -4,8 +4,7 @@ import { StyleSheet, Image, Text, View } from 'react-native';
 import { useSelector } from 'react-redux';
 import userlogo from '../../images/userlogo.png';
 
-export default function CommentItem({ comment, owner, createdAt }) 
-{
+export default function CommentItem({ comment, owner, createdAt }) {
     const userId = useSelector(state => state.auth.userId);
 
     return (
@@ -53,7 +52,7 @@ const styles = StyleSheet.create({
     },
     commentWrap: {
         position: 'relative',
-        flex: 1,
+        flex: 3,
         borderRadius: 6,
         backgroundColor: 'rgba(0, 0, 0, 0.03)',
         padding: 14,
