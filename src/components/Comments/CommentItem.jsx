@@ -54,7 +54,7 @@ const styles = StyleSheet.create({
         position: 'sticky',
         flex: 5,
         borderRadius: 2,
-        backgroundColor: 'rgba(0, 0, 0, 0.03)',
+        backgroundColor: 'rgba(103, 30, 103, 0.03)',
         padding: 14,
         gap: 5,
     },
