@@ -51,7 +51,7 @@ const styles = StyleSheet.create({
         borderRadius: 18,
     },
     commentWrap: {
-        position: 'sticky',
+        position: 'fixed',
         flex: 5,
         borderRadius: 2,
         backgroundColor: 'rgba(103, 30, 103, 0.03)',
