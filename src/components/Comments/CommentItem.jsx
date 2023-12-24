@@ -61,12 +61,12 @@ const styles = StyleSheet.create({
     comment: {
         marginBottom: 5,
         fontFamily: 'Roboto-Regular',
-        color: '#161b23',
+        color: '#338651',
         fontSize: 13,
     },
     dateUser: {
         fontFamily: 'Roboto-Regular',
-        color: '#BDBDBD',
+        color: '#33a733',
         fontSize: 10,
         position: 'absolute',
         bottom: 16,
