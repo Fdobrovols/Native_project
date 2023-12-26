@@ -70,7 +70,7 @@ const styles = StyleSheet.create({
         fontSize: 10,
         position: 'absolute',
         bottom: 16,
-        right: 16,
+        right: 10,
     },
     dateOwner: {
         fontFamily: 'Roboto-Regular',
