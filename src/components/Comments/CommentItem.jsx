@@ -62,7 +62,7 @@ const styles = StyleSheet.create({
         marginBottom: 5,
         fontFamily: 'Roboto-Regular',
         color: '#338651',
-        fontSize: 13,
+        fontSize: 10,
     },
     dateUser: {
         fontFamily: 'Roboto-Regular',
