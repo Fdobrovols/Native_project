@@ -25,7 +25,7 @@ const styles = StyleSheet.create({
     },
     title: {
         fontFamily: 'Roboto-Regular',
-        color: '#FFFFFF',
+        color: '#b44141',
         fontSize: 16,
     },
 });
