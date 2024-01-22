@@ -1,7 +1,6 @@
 import { StyleSheet, Text, TouchableOpacity } from 'react-native';
 
-export default function Btn({ text, onPress, disabled, style, styleTitle }) 
-{
+export default function Btn({ text, onPress, disabled, style, styleTitle }) {
     return (
         <TouchableOpacity
             activeOpacity={0.8}
@@ -20,7 +19,7 @@ const styles = StyleSheet.create({
         backgroundColor: '#359445',
         borderRadius: 50,
         marginTop: 43,
-        alignItems: 'center',
+        alignItems: 'left',
         padding: 10,
     },
     title: {
