@@ -20,7 +20,7 @@ const styles = StyleSheet.create({
         borderRadius: 40,
         marginTop: 43,
         alignItems: 'right',
-        padding: 5,
+        padding: 4,
     },
     title: {
         fontFamily: 'Roboto-Regular',
