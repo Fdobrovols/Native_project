@@ -41,7 +41,7 @@ const styles = StyleSheet.create({
     commentContainer: {
         display: 'flex',
         flexDirection: 'row',
-        marginBottom: 6,
+        marginBottom: 5,
         gap: 60,
         width: 10,
     },
