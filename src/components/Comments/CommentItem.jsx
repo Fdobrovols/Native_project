@@ -66,7 +66,7 @@ const styles = StyleSheet.create({
     },
     dateUser: {
         fontFamily: 'Roboto-Regular',
-        color: '#426742',
+        color: '#2f2fa3',
         fontSize: 10,
         position: 'absolute',
         bottom: 16,
