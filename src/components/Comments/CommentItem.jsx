@@ -74,7 +74,7 @@ const styles = StyleSheet.create({
     },
     dateOwner: {
         fontFamily: 'Roboto-Regular',
-        color: '#BDBDBD',
+        color: '#a5b96d',
         fontSize: 9,
         position: 'absolute',
         bottom: 16,
