@@ -65,7 +65,7 @@ const styles = StyleSheet.create({
         fontSize: 15,
     },
     dateUser: {
-        fontFamily: 'Roboto-Regular',
+        fontFamily: 'cursive',
         color: '#2f2fa3',
         fontSize: 10,
         position: 'absolute',
