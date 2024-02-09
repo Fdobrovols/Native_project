@@ -19,7 +19,7 @@ const styles = StyleSheet.create({
     wrap: {
         flexDirection: 'row',
         justifyContent: 'center',
-        gap: 5,
+        gap: 7,
     },
     text: {
         marginTop: 16,
