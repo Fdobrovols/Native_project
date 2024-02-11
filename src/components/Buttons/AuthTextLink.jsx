@@ -1,7 +1,6 @@
 import { StyleSheet, Text, View } from 'react-native';
 
-export default function AuthTextLink({ text, linkText, onPress }) 
-{
+export default function AuthTextLink({ text, linkText, onPress }) {
     return (
         <View style={styles.wrap}>
             <Text style={styles.text}>{text}</Text>
@@ -22,7 +21,7 @@ const styles = StyleSheet.create({
         gap: 7,
     },
     text: {
-        marginTop: 16,
+        marginTop: 14,
         color: '#1B4371',
         textAlign: 'center',
     },
