@@ -15,7 +15,7 @@ export default function Btn({ text, onPress, disabled, style, styleTitle }) {
 
 const styles = StyleSheet.create({
     button: {
-        height: 40,
+        height: 30,
         backgroundColor: '#359445',
         borderRadius: 40,
         marginTop: 43,
