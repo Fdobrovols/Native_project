@@ -23,6 +23,6 @@ const styles = StyleSheet.create({
     text: {
         marginTop: 13,
         color: '#cb2eae',
-        textAlign: 'center',
+        textAlign: 'left',
     },
 });
