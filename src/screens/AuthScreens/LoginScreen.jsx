@@ -51,11 +51,9 @@ export default function LoginScreen() {
     }
 
     const handleLoginSubmit = () => {
-        if (email && password) 
-        {
+        if (email && password) {
             dispatch(login(email, password)).then(data => {
-                if (data === undefined || !data.user) 
-                {
+                if (data === undefined || !data.user) {
                     return;
                 }
                 dispatch(authStateChange({ stateChange: true }));
@@ -160,7 +158,7 @@ const styles = StyleSheet.create({
     },
     form: {
         position: 'relative',
-        paddingTop: 32,
+        paddingTop: 30,
         paddingBottom: 40,
         paddingHorizontal: 16,
         borderTopStartRadius: 25,
