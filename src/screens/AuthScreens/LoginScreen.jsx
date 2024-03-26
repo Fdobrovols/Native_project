@@ -153,7 +153,7 @@ const styles = StyleSheet.create({
         flex: 1,
         resizeMode: 'cover',
         justifyContent: 'flex-end',
-        width: '100%',
+        width: '90%',
         height: '100%',
     },
     form: {
