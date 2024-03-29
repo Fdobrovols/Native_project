@@ -145,7 +145,7 @@ export default function LoginScreen() {
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: '#29938e',
+        backgroundColor: '#236742',
         alignItems: 'center',
         justifyContent: 'flex-end',
     },
