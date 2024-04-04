@@ -300,7 +300,7 @@ const styles = StyleSheet.create({
         flex: 2,
         resizeMode: 'cover',
         justifyContent: 'flex-end',
-        width: '100%',
+        width: '89%',
         height: '100%',
     },
     avatarWrap: {
