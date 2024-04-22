@@ -74,18 +74,15 @@ export default function RegisterScreen() {
         })();
     }, []);
 
-    if (hasPermission === null) 
-    {
+    if (hasPermission === null) {
         return <View />;
     }
-    if (hasPermission === false) 
-    {
+    if (hasPermission === false) {
         return <Text>No access to camera</Text>;
     }
 
     const makePhoto = async () => {
-        if (cameraRef) 
-        {
+        if (cameraRef) {
             const { uri } = await cameraRef.takePictureAsync();
             setAvatar(uri);
             setOpenCamera(false);
@@ -94,8 +91,7 @@ export default function RegisterScreen() {
 
     const uploadPhotoToServer = async () => {
         const uniqPostId = Date.now().toString();
-        try 
-        {
+        try {
             const response = await fetch(avatar);
             const file = await response.blob();
             const imageRef = ref(storage, `avatarImage/${uniqPostId}`);
@@ -103,21 +99,18 @@ export default function RegisterScreen() {
 
             const processedPhoto = await getDownloadURL(imageRef);
             return processedPhoto;
-        } 
-        catch (error) 
-        {
+        }
+        catch (error) {
             console.log('error', error.message);
         }
     }
 
     const handleRegisterSubmit = async (name, email, password) => {
-        if (name && email && password) 
-        {
+        if (name && email && password) {
             const photo = avatar ? await uploadPhotoToServer() : '';
 
             dispatch(register(name, email, password, photo)).then(data => {
-                if (data === undefined || !data.uid) 
-                {
+                if (data === undefined || !data.uid) {
                     return;
                 }
                 setName('');
@@ -301,7 +294,7 @@ const styles = StyleSheet.create({
         resizeMode: 'cover',
         justifyContent: 'flex-end',
         width: '89%',
-        height: '23%',
+        height: '13%',
     },
     avatarWrap: {
         position: 'absolute',
