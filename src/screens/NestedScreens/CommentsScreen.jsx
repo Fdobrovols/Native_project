@@ -26,21 +26,18 @@ export default function CommentsScreen({ route }) {
     const avatar = useSelector(state => state.auth.avatar);
 
     const sendComment = async () => {
-        if (!comment) 
-        {
+        if (!comment) {
             return;
         }
-        try 
-        {
+        try {
             await addDoc(collection(db, 'posts', id, 'comments'), {
                 comment,
                 owner: { userId, name, avatar },
                 createdAt: new Date().getTime(),
             });
             setComment('');
-        } 
-        catch (error) 
-        {
+        }
+        catch (error) {
             console.log(error.code);
         }
     }
@@ -143,7 +140,7 @@ const styles = StyleSheet.create({
     postPhoto: {
         width: '90%',
         height: 240,
-        borderRadius: 8,
+        borderRadius: 7,
     },
     inputWrap: {
         marginTop: 31,
