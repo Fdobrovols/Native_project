@@ -133,7 +133,7 @@ const styles = StyleSheet.create({
     postPhotoWrap: {
         width: '100%',
         height: 240,
-        backgroundColor: '#F6F6F6',
+        backgroundColor: '#4d885e',
         borderRadius: 8,
         marginBottom: 32,
     },
@@ -150,7 +150,7 @@ const styles = StyleSheet.create({
         height: 50,
         fontFamily: 'Roboto-Regular',
         fontSize: 16,
-        backgroundColor: '#F6F6F6',
+        backgroundColor: '#3a7275',
         borderColor: '#E8E8E8',
         borderWidth: 1,
         borderRadius: 100,
