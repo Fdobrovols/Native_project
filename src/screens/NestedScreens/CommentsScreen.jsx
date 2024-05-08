@@ -134,7 +134,7 @@ const styles = StyleSheet.create({
         width: '100%',
         height: 240,
         backgroundColor: '#4d885e',
-        borderRadius: 8,
+        borderRadius: 7,
         marginBottom: 32,
     },
     postPhoto: {
