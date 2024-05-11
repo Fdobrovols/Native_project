@@ -131,7 +131,7 @@ const styles = StyleSheet.create({
         borderBottomColor: 'rgba(0, 0, 0, 0.30)',
     },
     postPhotoWrap: {
-        width: '100%',
+        width: '90%',
         height: 240,
         backgroundColor: '#4d885e',
         borderRadius: 7,
