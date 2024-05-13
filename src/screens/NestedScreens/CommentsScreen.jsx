@@ -124,7 +124,7 @@ const styles = StyleSheet.create({
         justifyContent: 'flex-start',
         paddingHorizontal: 16,
         paddingTop: 15,
-        backgroundColor: '#FFFFFF',
+        backgroundColor: '#a03333',
         borderTopWidth: 0.5,
         borderBottomWidth: -0.5,
         borderTopColor: 'rgba(0, 0, 0, 0.30)',
