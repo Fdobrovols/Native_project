@@ -161,7 +161,7 @@ const styles = StyleSheet.create({
         paddingTop: 15,
         paddingBottom: 30,
         paddingHorizontal: 11,
-        borderTopStartRadius: 25,
+        borderTopStartRadius: 15,
         borderTopEndRadius: 25,
         backgroundColor: '#41a7ae',
         fontFamily: 'Roboto-Regular',
