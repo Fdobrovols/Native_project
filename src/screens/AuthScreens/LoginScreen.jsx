@@ -152,7 +152,7 @@ const styles = StyleSheet.create({
     backgroundImage: {
         flex: 1,
         resizeMode: 'cover',
-        justifyContent: 'flex-end',
+        justifyContent: 'space-between',
         width: '46%',
         height: '50%',
     },
