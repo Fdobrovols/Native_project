@@ -147,7 +147,7 @@ const styles = StyleSheet.create({
         flex: 2,
         backgroundColor: '#236742',
         alignItems: 'center',
-        justifyContent: 'flex-end',
+        justifyContent: 'space-evenly',
     },
     backgroundImage: {
         flex: 1,
