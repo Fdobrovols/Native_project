@@ -168,7 +168,7 @@ const styles = StyleSheet.create({
         fontSize: 16,
     },
     formTitle: {
-        fontFamily: 'Roboto-Medium',
+        fontFamily: 'serif',
         color: '#8b2929',
         marginBottom: 33,
         fontSize: 30,
