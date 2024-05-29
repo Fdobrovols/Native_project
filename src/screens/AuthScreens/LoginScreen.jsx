@@ -171,7 +171,7 @@ const styles = StyleSheet.create({
         fontFamily: 'serif',
         color: '#8b2929',
         marginBottom: 33,
-        fontSize: 30,
+        fontSize: 20,
         textAlign: 'left',
     },
     input: {
