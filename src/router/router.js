@@ -76,7 +76,7 @@ const styles = StyleSheet.create({
         fontWeight: 500,
         fontSize: 17,
         letterSpacing: -0.4,
-        textAlign: 'center',
+        textAlign: 'left',
         color: '#212121',
     },
 });
