@@ -10,8 +10,7 @@ import MapScreen from '../screens/NestedScreens/MapScreen';
 const Stack = createStackNavigator();
 
 export const useRoute = isAuth => {
-    if (!isAuth) 
-    {
+    if (!isAuth) {
         return (
             <Stack.Navigator
                 screenOptions={{
@@ -73,7 +72,7 @@ export const useRoute = isAuth => {
 
 const styles = StyleSheet.create({
     title: {
-        fontWeight: 500,
+        fontWeight: 400,
         fontSize: 17,
         letterSpacing: -0.4,
         textAlign: 'left',
