@@ -303,7 +303,7 @@ const styles = StyleSheet.create({
         transform: [{ translateX: -50 }],
         width: 120,
         height: 120,
-        backgroundColor: '#F6F6F6',
+        backgroundColor: '#8f5757',
         borderRadius: 16,
     },
     avatar: {
