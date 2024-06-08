@@ -310,7 +310,7 @@ const styles = StyleSheet.create({
         width: 120,
         height: 120,
         borderRadius: 16,
-        backgroundColor: '#FFF',
+        backgroundColor: '#406b71',
     },
     cameraBtnPos: {
         position: 'absolute',
