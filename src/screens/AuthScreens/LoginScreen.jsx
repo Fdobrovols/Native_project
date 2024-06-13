@@ -185,7 +185,7 @@ const styles = StyleSheet.create({
         marginBottom: 16,
     },
     btnShowPassword: {
-        position: 'absolute',
+        position: 'relative ',
         right: 16,
         top: 14,
     },
