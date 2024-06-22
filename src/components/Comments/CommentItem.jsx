@@ -42,7 +42,7 @@ const styles = StyleSheet.create({
         display: 'flex',
         flexDirection: 'row',
         marginBottom: 4,
-        gap: 50,
+        gap: 40,
         width: 5,
     },
     avatar: {
