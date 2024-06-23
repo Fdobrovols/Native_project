@@ -60,7 +60,7 @@ const styles = StyleSheet.create({
     },
     comment: {
         marginBottom: 3,
-        fontFamily: 'Roboto-Regular',
+        fontFamily: 'cursive',
         color: '#338651',
         fontSize: 15,
     },
