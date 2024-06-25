@@ -164,7 +164,7 @@ const styles = StyleSheet.create({
         borderTopStartRadius: 15,
         borderTopEndRadius: 25,
         backgroundColor: '#2f803c',
-        fontFamily: 'Roboto-Regular',
+        fontFamily: 'sans-serif',
         fontSize: 16,
     },
     formTitle: {
