@@ -40,7 +40,7 @@ export const useRoute = isAuth => {
     return (
         <Stack.Navigator
             screenOptions={{
-                headerTitleAlign: 'center',
+                headerTitleAlign: 'left',
                 headerStyle: styles.header,
                 headerTitleStyle: styles.title,
             }}
