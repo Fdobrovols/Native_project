@@ -172,7 +172,7 @@ const styles = StyleSheet.create({
         color: '#8b2929',
         marginBottom: 33,
         fontSize: 20,
-        textAlign: 'left',
+        textAlign: 'center',
     },
     input: {
         fontFamily: 'Roboto-Regular',
