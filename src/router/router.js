@@ -76,6 +76,6 @@ const styles = StyleSheet.create({
         fontSize: 17,
         letterSpacing: -0.4,
         textAlign: 'left',
-        color: '#212121',
+        color: '#234212',
     },
 });
