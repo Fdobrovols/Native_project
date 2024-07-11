@@ -128,7 +128,7 @@ const styles = StyleSheet.create({
         borderTopWidth: 0.9,
         borderBottomWidth: -0.5,
         borderTopColor: 'rgba(141, 23, 23, 0.3)',
-        borderBottomColor: 'rgba(163, 112, 112, 0.3)',
+        borderBottomColor: 'rgba(149, 45, 45, 0.3)',
     },
     postPhotoWrap: {
         width: '90%',
