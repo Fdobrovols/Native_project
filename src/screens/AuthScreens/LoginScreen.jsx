@@ -98,7 +98,7 @@ export default function LoginScreen() {
                                 <TextInput
                                     style={[
                                         styles.input,
-                                        { marginBottom: 0 },
+                                        { marginBottom: 1 },
                                         {
                                             borderColor:
                                                 isFocused === 'password' ? '#b1764c' : '#E8E8E8',
