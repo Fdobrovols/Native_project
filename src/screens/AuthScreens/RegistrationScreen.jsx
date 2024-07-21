@@ -206,7 +206,7 @@ export default function RegisterScreen() {
                                             isFocused === 'username' ? '#6d523f' : '#E8E8E8',
                                     },
                                 ]}
-                                placeholderTextColor={'#BDBDBD'}
+                                placeholderTextColor={'#37423e'}
                                 placeholder="Логін"
                                 value={name}
                                 textContentType="username"
