@@ -161,7 +161,7 @@ export default function RegisterScreen() {
                                             style={styles.cameraBtnPos}
                                             onPress={makePhoto}
                                         >
-                                            <Ionicons name="ios-camera" size={24} color={'#BDBDBD'} />
+                                            <Ionicons name="ios-camera" size={23} color={'#BDBDBD'} />
                                         </TouchableOpacity>
                                     </Camera>
                                 ) : (
@@ -215,7 +215,7 @@ export default function RegisterScreen() {
                                 onFocus={() => handleFocus('username')}
                                 onChangeText={value => setName(value)}
                             />
-
+                            
                             <TextInput
                                 style={[
                                     styles.input,
