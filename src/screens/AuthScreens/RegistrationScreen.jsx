@@ -161,7 +161,7 @@ export default function RegisterScreen() {
                                             style={styles.cameraBtnPos}
                                             onPress={makePhoto}
                                         >
-                                            <Ionicons name="ios-camera" size={23} color={'#BDBDBD'} />
+                                            <Ionicons name="ios-camera" size={23} color={'#755e5e'} />
                                         </TouchableOpacity>
                                     </Camera>
                                 ) : (
