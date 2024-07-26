@@ -152,7 +152,7 @@ export default function RegisterScreen() {
                                         >
                                             <MaterialCommunityIcons
                                                 name="camera-flip"
-                                                size={24}
+                                                size={23}
                                                 color={'#bdbdbd'}
                                             />
                                         </TouchableOpacity>
