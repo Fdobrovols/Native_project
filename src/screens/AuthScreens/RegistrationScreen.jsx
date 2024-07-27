@@ -203,7 +203,7 @@ export default function RegisterScreen() {
                                     styles.input,
                                     {
                                         borderColor:
-                                            isFocused === 'username' ? '#6d523f' : '#E8E8E8',
+                                            isFocused === 'username' ? '#648765' : '#E8E8E8',
                                     },
                                 ]}
                                 placeholderTextColor={'#37423e'}
@@ -224,7 +224,7 @@ export default function RegisterScreen() {
                                             isFocused === 'emailAddress' ? '#FF6C00' : '#E8E8E8',
                                     },
                                 ]}
-                                placeholderTextColor={'#BDBDBD'}
+                                placeholderTextColor={'#872f2f'}
                                 placeholder="Адреса електронної пошти"
                                 value={email}
                                 textContentType="emailAddress"
