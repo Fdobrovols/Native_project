@@ -163,7 +163,7 @@ const styles = StyleSheet.create({
         alignItems: 'center',
         width: 34,
         height: 34,
-        backgroundColor: '#FF6C00',
+        backgroundColor: '#8c4613',
         borderRadius: 100,
         position: 'absolute',
         top: 8,
