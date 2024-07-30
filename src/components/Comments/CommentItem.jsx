@@ -68,7 +68,7 @@ const styles = StyleSheet.create({
         fontFamily: 'cursive',
         color: '#29be33',
         fontSize: 6,
-        position: 'absolute',
+        position: 'fixed',
         bottom: 16,
         right: 9,
     },
