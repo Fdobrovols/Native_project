@@ -165,7 +165,7 @@ const styles = StyleSheet.create({
         height: 34,
         backgroundColor: '#8c4613',
         borderRadius: 100,
-        position: 'absolute',
+        position: 'sticky',
         top: 8,
         right: 8,
     },
