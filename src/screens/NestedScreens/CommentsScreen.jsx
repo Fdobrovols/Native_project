@@ -171,7 +171,7 @@ const styles = StyleSheet.create({
     },
     text: {
         fontFamily: 'Roboto-Regular',
-        fontSize: 13,
+        fontSize: 10,
         textAlign: 'center',
     },
 });
