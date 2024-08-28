@@ -35,13 +35,14 @@ export default function CommentsScreen({ route }) {
                 owner: { userId, name, avatar },
                 createdAt: new Date().getTime(),
             });
-            setComment('');
+            setComment('Write HEre');
         }
         catch (error) {
             console.log(error.code);
         }
     }
-
+ 
+    
     useEffect(() => {
         const commentsRef = collection(db, 'posts', id, 'comments');
         onSnapshot(commentsRef, data => {
@@ -55,7 +56,8 @@ export default function CommentsScreen({ route }) {
             setAllComments(sortedDbComments);
         });
     }, []);
-
+     
+   
     return (
         <TouchableWithoutFeedback
             TouchableWithoutFeedback
