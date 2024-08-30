@@ -95,7 +95,7 @@ export default function CommentsScreen({ route }) {
                             name="comment"
                             value={comment}
                             placeholder="Коментувати..."
-                            placeholderTextColor={'#BDBDBD'}
+                            placeholderTextColor={'#b22f2f'}
                             style={
                                 isFocused
                                     ? { ...styles.input, borderColor: '#FF6C00' }
