@@ -110,7 +110,7 @@ export default function CommentsScreen({ route }) {
                                 onPress={sendComment}
                                 name="arrow-up"
                                 size={24}
-                                color={'#FFFFFF'}
+                                color={'#792626'}
                             />
                         </View>
                     </View>
