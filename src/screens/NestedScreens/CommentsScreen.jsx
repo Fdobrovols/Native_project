@@ -41,8 +41,8 @@ export default function CommentsScreen({ route }) {
             console.log(error.code);
         }
     }
- 
-    
+
+
     useEffect(() => {
         const commentsRef = collection(db, 'posts', id, 'comments');
         onSnapshot(commentsRef, data => {
@@ -56,8 +56,8 @@ export default function CommentsScreen({ route }) {
             setAllComments(sortedDbComments);
         });
     }, []);
-     
-   
+
+
     return (
         <TouchableWithoutFeedback
             TouchableWithoutFeedback
@@ -109,7 +109,7 @@ export default function CommentsScreen({ route }) {
                             <Feather
                                 onPress={sendComment}
                                 name="arrow-up"
-                                size={24}
+                                size={23}
                                 color={'#792626'}
                             />
                         </View>
