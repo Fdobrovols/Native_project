@@ -98,7 +98,7 @@ export default function CommentsScreen({ route }) {
                             placeholderTextColor={'#b22f2f'}
                             style={
                                 isFocused
-                                    ? { ...styles.input, borderColor: '#FF6C00' }
+                                    ? { ...styles.input, borderColor: '#4d7342' }
                                     : { ...styles.input }
                             }
                             onFocus={() => setIsFocused(true)}
