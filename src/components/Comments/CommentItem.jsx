@@ -61,7 +61,7 @@ const styles = StyleSheet.create({
     comment: {
         marginBottom: 6,
         fontFamily: 'cursive',
-        color: '#338651',
+        color: '#58ae78',
         fontSize: 15,
     },
     dateUser: {
