@@ -234,7 +234,7 @@ export default function RegisterScreen() {
                                 onChangeText={value => setEmail(value)}
                             />
 
-                            <View style={(position = 'relative')}>
+                            <View style={(position = 'fixed')}>
                                 <TextInput
                                     style={[
                                         styles.input,
