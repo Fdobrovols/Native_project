@@ -177,7 +177,7 @@ export default function RegisterScreen() {
                                         <AntDesign
                                             name="pluscircleo"
                                             size={25}
-                                            color={'#FF6C00'}
+                                            color={'#b28260'}
                                             onPress={() => {
                                                 setAvatar(null);
                                                 setOpenCamera(true);
