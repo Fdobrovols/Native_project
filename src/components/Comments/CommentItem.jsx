@@ -76,7 +76,7 @@ const styles = StyleSheet.create({
         fontFamily: 'Roboto-Regular',
         color: '#6f8041',
         fontSize: 8,
-        position: 'absolute',
+        position: 'fixed',
         bottom: 16,
         left: 16,
     },
