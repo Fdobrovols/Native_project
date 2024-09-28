@@ -137,7 +137,7 @@ const styles = StyleSheet.create({
         textDecorationLine: 'underline',
     },
     postIcon: {
-        color: '#FF6C00',
+        color: '#407b6c',
     },
     locationIcon: {
         color: '#BDBDBD',
