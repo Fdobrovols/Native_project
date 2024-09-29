@@ -7,8 +7,7 @@ import { collection, onSnapshot } from 'firebase/firestore';
 import { db } from '../../firebase/config';
 import { deleteLike, sendLike } from '../../firebase/firestoreUtils';
 
-export default function PostItem({id, title, photoLocation, url, geoLocation}) 
-{
+export default function PostItem({ id, title, photoLocation, url, geoLocation }) {
     const navigation = useNavigation();
     const name = useSelector(state => state.auth.name);
     const userId = useSelector(state => state.auth.userId);
@@ -42,8 +41,7 @@ export default function PostItem({id, title, photoLocation, url, geoLocation})
     }, []);
 
     const handleLikes = async () => {
-        if (!userPutLike) 
-        {
+        if (!userPutLike) {
             await sendLike(id, userId, name, avatar);
             return;
         }
@@ -133,7 +131,7 @@ const styles = StyleSheet.create({
     locationText: {
         fontFamily: 'Roboto-Regular',
         color: '#212121',
-        fontSize: 16,
+        fontSize: 15,
         textDecorationLine: 'underline',
     },
     postIcon: {
