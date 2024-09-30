@@ -120,7 +120,7 @@ const styles = StyleSheet.create({
         width: 30,
         borderRadius: 100,
         justifyContent: 'center',
-        alignItems: 'center',
+        alignItems: 'left',
         backgroundColor: '#FFF',
         position: 'absolute',
         top: 10,
