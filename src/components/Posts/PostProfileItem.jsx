@@ -7,8 +7,7 @@ import { collection, onSnapshot } from 'firebase/firestore';
 import { db } from '../../firebase/config';
 import { deleteLike, deletePost, sendLike } from '../../firebase/firestoreUtils';
 
-export default function PostProfileItem({id, title, photoLocation, url, geoLocation}) 
-{
+export default function PostProfileItem({ id, title, photoLocation, url, geoLocation }) {
     const navigation = useNavigation();
     const dispatch = useDispatch();
     const name = useSelector(state => state.auth.name);
@@ -43,8 +42,7 @@ export default function PostProfileItem({id, title, photoLocation, url, geoLocat
     }, []);
 
     const handleLikes = async () => {
-        if (!userPutLike) 
-        {
+        if (!userPutLike) {
             await sendLike(id, userId, name, avatar);
             return;
         }
@@ -118,7 +116,7 @@ const styles = StyleSheet.create({
     trashBtn: {
         height: 30,
         width: 30,
-        borderRadius: 100,
+        borderRadius: 99,
         justifyContent: 'center',
         alignItems: 'left',
         backgroundColor: '#934747',
