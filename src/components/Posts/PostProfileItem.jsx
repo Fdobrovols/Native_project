@@ -105,7 +105,7 @@ const styles = StyleSheet.create({
     postPhotoWrap: {
         width: '100%',
         height: 240,
-        backgroundColor: '#F6F6F6',
+        backgroundColor: '#232238',
         borderRadius: 8,
     },
     postPhoto: {
