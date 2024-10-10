@@ -117,7 +117,7 @@ const styles = StyleSheet.create({
         height: 30,
         width: 30,
         borderRadius: 99,
-        justifyContent: 'left',
+        justifyContent: 'right',
         alignItems: 'left',
         backgroundColor: '#934747',
         position: 'fixed',
