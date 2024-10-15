@@ -149,7 +149,7 @@ const styles = StyleSheet.create({
     },
     commentText: {
         fontFamily: 'Roboto-Regular',
-        color: '#BDBDBD',
+        color: '#b62727',
         fontSize: 16,
     },
     locationText: {
