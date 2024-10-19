@@ -131,7 +131,7 @@ const styles = StyleSheet.create({
     locationText: {
         fontFamily: 'Roboto-Regular',
         color: '#212121',
-        fontSize: 15,
+        fontSize: 14,
         textDecorationLine: 'underline',
     },
     postIcon: {
