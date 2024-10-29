@@ -107,7 +107,7 @@ const styles = StyleSheet.create({
         fontSize: 16,
     },
     postDetails: {
-        display: 'flex',
+        display: 'inline',
         flexDirection: 'row',
         marginTop: 7,
         justifyContent: 'space-between',
