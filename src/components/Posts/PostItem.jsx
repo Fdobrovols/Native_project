@@ -132,7 +132,7 @@ const styles = StyleSheet.create({
         fontFamily: 'Roboto-Regular',
         color: '#212121',
         fontSize: 14,
-        textDecorationLine: 'underline',
+        textDecorationLine: 'revert',
     },
     postIcon: {
         color: '#407b6c',
