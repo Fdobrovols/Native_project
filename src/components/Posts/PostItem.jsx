@@ -138,6 +138,6 @@ const styles = StyleSheet.create({
         color: '#407b6c',
     },
     locationIcon: {
-        color: '#BDBDBD',
+        color: '#348a5f',
     },
 });
