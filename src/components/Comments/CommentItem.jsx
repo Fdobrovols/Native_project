@@ -69,7 +69,7 @@ const styles = StyleSheet.create({
         color: '#29be33',
         fontSize: 5,
         position: 'fixed',
-        bottom: 16,
+        bottom: 15,
         right: 9,
     },
     dateOwner: {
