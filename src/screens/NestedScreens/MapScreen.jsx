@@ -23,7 +23,7 @@ export default function MapScreen({ route }) {
             >
                 {route.params && (
                     <Marker
-                        title={route.params?.photoLocation ?? 'I`m here'}
+                        title={route.params?.photoLocation ?? 'I`m here, looking at me'}
                         coordinate={{ latitude: latitude, longitude: longitude }}
                     />
                 )}
