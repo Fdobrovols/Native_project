@@ -14,8 +14,8 @@ export default function MapScreen({ route }) {
                 region={{
                     latitude,
                     longitude,
-                    latitudeDelta: 0.003,
-                    longitudeDelta: 0.008,
+                    latitudeDelta: 0.004,
+                    longitudeDelta: 0.009,
                 }}
                 mapType="standard"
                 minZoomLevel={20}
