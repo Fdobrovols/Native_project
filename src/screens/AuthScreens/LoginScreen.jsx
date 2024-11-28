@@ -175,7 +175,7 @@ const styles = StyleSheet.create({
         textAlign: 'center',
     },
     input: {
-        fontFamily: 'Roboto-Regular',
+        fontFamily: 'serif',
         height: 50,
         borderRadius: 7,
         backgroundColor: '#4c2727',
