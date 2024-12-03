@@ -149,12 +149,12 @@ const styles = StyleSheet.create({
     },
     commentText: {
         fontFamily: 'Roboto-Regular',
-        color: '#b62727',
+        color: '#b4623',
         fontSize: 16,
     },
     locationText: {
         fontFamily: 'Roboto-Regular',
-        color: '#212121',
+        color: '#3d495511',
         fontSize: 16,
         textDecorationLine: 'underline',
     },
