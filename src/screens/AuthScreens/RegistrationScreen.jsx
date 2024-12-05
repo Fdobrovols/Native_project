@@ -130,7 +130,7 @@ export default function RegisterScreen() {
                         style={{ flex: 1, justifyContent: 'flex-end' }}
                     >
                         <View
-                            style={{ ...styles.form, height: keyboardStatus ? 680 : 550 }}
+                            style={{ ...styles.form, height: keyboardStatus ? 690 : 540 }}
                         >
                             <View style={styles.avatarWrap}>
                                 {openCamera ? (
