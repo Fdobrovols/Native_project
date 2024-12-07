@@ -96,7 +96,6 @@ export default function RegisterScreen() {
             const file = await response.blob();
             const imageRef = ref(storage, `avatarImage/${uniqPostId}`);
             await uploadBytes(imageRef, file);
-
             const processedPhoto = await getDownloadURL(imageRef);
             return processedPhoto;
         }
