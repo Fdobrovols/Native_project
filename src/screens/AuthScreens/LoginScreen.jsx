@@ -182,7 +182,7 @@ const styles = StyleSheet.create({
         borderWidth: 2,
         color: '#ab2828',
         padding: 16,
-        marginBottom: 17,
+        marginBottom: 18,
     },
     btnShowPassword: {
         position: 'relative ',
