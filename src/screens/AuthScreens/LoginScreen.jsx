@@ -163,7 +163,7 @@ const styles = StyleSheet.create({
         paddingHorizontal: 12,
         borderTopStartRadius: 15,
         borderTopEndRadius: 25,
-        backgroundColor: '#3a473c',
+        backgroundColor: '#244c2a',
         fontFamily: 'sans-serif',
         fontSize: 16,
     },
