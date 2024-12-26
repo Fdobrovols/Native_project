@@ -187,7 +187,7 @@ const styles = StyleSheet.create({
     btnShowPassword: {
         position: 'relative ',
         right: 16,
-        top: 14,
+        top: 15,
     },
     btnShowPasswordText: {
         color: '#38516d',
