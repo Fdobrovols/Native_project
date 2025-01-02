@@ -214,7 +214,7 @@ export default function RegisterScreen() {
                                 onFocus={() => handleFocus('username')}
                                 onChangeText={value => setName(value)}
                             />
-                            
+
                             <TextInput
                                 style={[
                                     styles.input,
@@ -318,7 +318,7 @@ const styles = StyleSheet.create({
     },
     cameraRevers: {
         position: 'absolute',
-        top: 5,
+        top: 4,
         right: 4,
     },
     btnAdd: {
