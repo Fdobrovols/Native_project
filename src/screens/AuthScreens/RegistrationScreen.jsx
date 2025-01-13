@@ -327,7 +327,7 @@ const styles = StyleSheet.create({
         right: -14,
         width: 26,
         height: 25,
-        backgroundColor: '#FFFFFF',
+        backgroundColor: '#2d8d50',
         borderRadius: 50,
     },
     form: {
