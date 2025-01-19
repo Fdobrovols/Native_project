@@ -177,7 +177,7 @@ const styles = StyleSheet.create({
     input: {
         fontFamily: 'serif',
         height: 50,
-        borderRadius: 8,
+        borderRadius: 9,
         backgroundColor: '#4c2727',
         borderWidth: 3,
         color: '#ab2828',
