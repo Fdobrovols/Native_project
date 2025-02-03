@@ -161,7 +161,7 @@ const styles = StyleSheet.create({
         paddingTop: 16,
         paddingBottom: 21,
         paddingHorizontal: 12,
-        borderTopStartRadius: 16,
+        borderTopStartRadius: 17,
         borderTopEndRadius: 26,
         backgroundColor: '#244c2a',
         fontFamily: 'sans-serif',
@@ -171,7 +171,7 @@ const styles = StyleSheet.create({
         fontFamily: 'serif',
         color: '#8b2929',
         marginBottom: 34,
-        fontSize: 31,
+        fontSize: 32,
         textAlign: 'center',
     },
     input: {
