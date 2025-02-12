@@ -360,7 +360,7 @@ const styles = StyleSheet.create({
     },
     btnShowPassword: {
         position: 'absolute',
-        right: 16,
+        right: 17,
         top: 14,
     },
     btnShowPasswordText: {
