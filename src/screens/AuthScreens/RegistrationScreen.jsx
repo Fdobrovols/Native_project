@@ -353,7 +353,7 @@ const styles = StyleSheet.create({
         height: 50,
         borderRadius: 8,
         backgroundColor: '#F6F6F6',
-        borderWidth: 1,
+        borderWidth: 2,
         color: '#212121',
         padding: 16,
         marginBottom: 16,
