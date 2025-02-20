@@ -345,7 +345,7 @@ const styles = StyleSheet.create({
         fontFamily: 'Roboto-Medium',
         color: '#369f7e',
         marginBottom: 33,
-        fontSize: 30,
+        fontSize: 31,
         textAlign: 'center',
     },
     input: {
