@@ -355,7 +355,7 @@ const styles = StyleSheet.create({
         backgroundColor: '#4cad41',
         borderWidth: 3,
         color: '#2c8244',
-        padding: 16,
+        padding: 17,
         marginBottom: 16,
     },
     btnShowPassword: {
