@@ -354,7 +354,7 @@ const styles = StyleSheet.create({
         borderRadius: 10,
         backgroundColor: '#4cad41',
         borderWidth: 3,
-        color: '#2c8244',
+        color: '#4fac69',
         padding: 17,
         marginBottom: 16,
     },
@@ -364,6 +364,6 @@ const styles = StyleSheet.create({
         top: 16,
     },
     btnShowPasswordText: {
-        color: '#1B4371',
+        color: '#55b941',
     },
 });
