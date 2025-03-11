@@ -139,7 +139,7 @@ const styles = StyleSheet.create({
     postData: {
         display: 'flex',
         flexDirection: 'row',
-        gap: 5,
+        gap: 6,
     },
     postLocation: {
         marginLeft: 'auto',
