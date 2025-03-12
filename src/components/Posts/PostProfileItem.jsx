@@ -122,7 +122,7 @@ const styles = StyleSheet.create({
         backgroundColor: '#334d63',
         position: 'fixed',
         top: 8,
-        right: 9,
+        right: 10,
         zIndex: 1,
     },
     postTitle: {
