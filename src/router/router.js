@@ -73,7 +73,7 @@ export const useRoute = isAuth => {
 const styles = StyleSheet.create({
     title: {
         fontWeight: 400,
-        fontSize: 17,
+        fontSize: 16,
         letterSpacing: -0.4,
         textAlign: 'left',
         color: '#234212',
