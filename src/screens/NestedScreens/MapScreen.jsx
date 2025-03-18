@@ -18,7 +18,7 @@ export default function MapScreen({ route }) {
                     longitudeDelta: 0.010,
                 }}
                 mapType="standard"
-                minZoomLevel={21}
+                minZoomLevel={22}
                 showsUserLocation={true}
             >
                 {route.params && (
