@@ -35,7 +35,7 @@ export default function MapScreen({ route }) {
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: '#2e923d',
+        backgroundColor: '#312b4d',
         justifyContent: 'center',
     },
     mapStyle: {
