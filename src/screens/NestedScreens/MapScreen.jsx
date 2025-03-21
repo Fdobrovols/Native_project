@@ -36,7 +36,7 @@ const styles = StyleSheet.create({
     container: {
         flex: 2,
         backgroundColor: '#312b4d',
-        justifyContent: 'center',
+        justifyContent: 'left',
     },
     mapStyle: {
         flex: 1,
