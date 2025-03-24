@@ -15,7 +15,7 @@ export default function MapScreen({ route }) {
                     latitude,
                     longitude,
                     latitudeDelta: 0.005,
-                    longitudeDelta: 0.010,
+                    longitudeDelta: 0.016,
                 }}
                 mapType="standard"
                 minZoomLevel={21}
