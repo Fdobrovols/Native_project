@@ -39,6 +39,6 @@ const styles = StyleSheet.create({
         justifyContent: 'left',
     },
     mapStyle: {
-        flex: 1,
+        flex: 2,
     },
 });
