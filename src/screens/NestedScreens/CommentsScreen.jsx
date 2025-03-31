@@ -146,7 +146,7 @@ const styles = StyleSheet.create({
     },
     inputWrap: {
         marginTop: 33,
-        marginBottom: 16,
+        marginBottom: 17,
     },
     input: {
         height: 40,
