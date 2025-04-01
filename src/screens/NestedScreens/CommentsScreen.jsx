@@ -151,7 +151,7 @@ const styles = StyleSheet.create({
     input: {
         height: 40,
         fontFamily: 'Roboto-Regular',
-        fontSize: 16,
+        fontSize: 17,
         backgroundColor: '#3a7275',
         borderColor: '#744747',
         borderWidth: 1,
