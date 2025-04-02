@@ -153,7 +153,7 @@ const styles = StyleSheet.create({
         fontFamily: 'Roboto-Regular',
         fontSize: 17,
         backgroundColor: '#3a7275',
-        borderColor: '#744747',
+        borderColor: '#3a8b61',
         borderWidth: 1,
         borderRadius: 100,
         paddingTop: 16,
