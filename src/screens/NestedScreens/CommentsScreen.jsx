@@ -157,7 +157,7 @@ const styles = StyleSheet.create({
         borderWidth: 1,
         borderRadius: 99,
         paddingTop: 16,
-        paddingHorizontal: 16,
+        paddingHorizontal: 17,
         paddingBottom: 15,
     },
     sendBtn: {
