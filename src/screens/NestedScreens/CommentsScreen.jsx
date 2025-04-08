@@ -149,7 +149,7 @@ const styles = StyleSheet.create({
         marginBottom: 17,
     },
     input: {
-        height: 40,
+        height: 41,
         fontFamily: 'Roboto-Regular',
         fontSize: 17,
         backgroundColor: '#3a7275',
