@@ -324,7 +324,7 @@ const styles = StyleSheet.create({
     btnAdd: {
         position: 'absolute',
         top: 76,
-        right: -14,
+        right: -13,
         width: 26,
         height: 25,
         backgroundColor: '#2d8d50',
