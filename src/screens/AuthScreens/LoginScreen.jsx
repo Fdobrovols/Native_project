@@ -105,7 +105,7 @@ export default function LoginScreen() {
                                         },
                                     ]}
                                     placeholderTextColor={'#7f8754'}
-                                    placeholder="Пароль"
+                                    placeholder="Password"
                                     value={password}
                                     textContentType="password"
                                     autoCompleteType="off"
