@@ -108,7 +108,7 @@ export default function LoginScreen() {
                                     placeholder="Password"
                                     value={password}
                                     textContentType="password"
-                                    autoCompleteType="off"
+                                    autoCompleteType="on"
                                     secureTextEntry={showPassword}
                                     onBlur={handleBlur}
                                     onFocus={() => handleFocus('password')}
