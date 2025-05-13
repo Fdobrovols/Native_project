@@ -165,7 +165,7 @@ const styles = StyleSheet.create({
         borderTopEndRadius: 26,
         backgroundColor: '#b0d928',
         fontFamily: 'sans-serif',
-        fontSize: 17,
+        fontSize: 18,
     },
     formTitle: {
         fontFamily: 'serif',
