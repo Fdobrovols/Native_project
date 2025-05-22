@@ -190,6 +190,6 @@ const styles = StyleSheet.create({
         top: 16,
     },
     btnShowPasswordText: {
-        color: '#264522',
+        color: '#414522',
     },
 });
