@@ -334,7 +334,7 @@ const styles = StyleSheet.create({
         position: 'relative',
         paddingTop: 94,
         paddingBottom: 41,
-        paddingHorizontal: 16,
+        paddingHorizontal: 17,
         borderTopStartRadius: 25,
         borderTopEndRadius: 25,
         backgroundColor: '#3d555b',
