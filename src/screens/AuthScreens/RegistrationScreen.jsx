@@ -332,7 +332,7 @@ const styles = StyleSheet.create({
     },
     form: {
         position: 'relative',
-        paddingTop: 94,
+        paddingTop: 95,
         paddingBottom: 41,
         paddingHorizontal: 17,
         borderTopStartRadius: 25,
