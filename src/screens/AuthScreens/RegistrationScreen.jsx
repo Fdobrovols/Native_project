@@ -339,7 +339,7 @@ const styles = StyleSheet.create({
         borderTopEndRadius: 26,
         backgroundColor: '#3d555b',
         fontFamily: 'Roboto-Regular',
-        fontSize: 16,
+        fontSize: 17,
     },
     formTitle: {
         fontFamily: 'Roboto-Medium',
