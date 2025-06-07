@@ -18,9 +18,9 @@ const styles = StyleSheet.create({
         height: 2,
         backgroundColor: '#601f58',
         borderRadius: 15,
-        marginTop: 31,
+        marginTop: 31s,
         alignItems: 'right',
-        padding: 2,
+        padding: 3,
     },
     title: {
         fontFamily: 'Roboto-Regular',
