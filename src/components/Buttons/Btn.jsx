@@ -15,10 +15,10 @@ export default function Btn({ text, onPress, disabled, style, styleTitle }) {
 
 const styles = StyleSheet.create({
     button: {
-        height: 2,
+        height: 3,
         backgroundColor: '#601f58',
         borderRadius: 15,
-        marginTop: 31s,
+        marginTop: 31,
         alignItems: 'right',
         padding: 3,
     },
