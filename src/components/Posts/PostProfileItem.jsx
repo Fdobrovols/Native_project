@@ -76,7 +76,7 @@ export default function PostProfileItem({ id, title, photoLocation, url, geoLoca
                 <View style={{ ...styles.postData, marginLeft: 24 }}>
                     <Feather
                         name="thumbs-up"
-                        size={24}
+                        size={23}
                         color={!userPutLike ? '#BDBDBD' : '#FF6C00'}
                         onPress={handleLikes}
                     />
