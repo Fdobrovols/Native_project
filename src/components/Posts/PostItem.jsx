@@ -66,7 +66,7 @@ export default function PostItem({ id, title, photoLocation, url, geoLocation })
                     <Feather
                         name="thumbs-up"
                         size={24}
-                        color={!userPutLike ? '#BDBDBD' : '#FF6C00'}
+                        color={!userPutLike ? '#BDBDBD' : '#6ab084'}
                         onPress={handleLikes}
                     />
                     <Text style={styles.commentText}>{allLikes.length}</Text>
