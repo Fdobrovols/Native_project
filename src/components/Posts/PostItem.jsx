@@ -77,7 +77,7 @@ export default function PostItem({ id, title, photoLocation, url, geoLocation })
                         navigation.navigate('Map', { geoLocation, photoLocation })
                     }
                 >
-                    <Feather name="map-pin" size={24} style={styles.locationIcon} />
+                    <Feather name="map-pin" size={22} style={styles.locationIcon} />
                     <Text style={styles.locationText}>{photoLocation}</Text>
                 </TouchableOpacity>
             </View>
