@@ -83,7 +83,7 @@ export default function PostProfileItem({ id, title, photoLocation, url, geoLoca
                     <Text style={styles.commentText}>{allLikes.length}</Text>
                 </View>
                 <View style={styles.postLocation}>
-                    <Feather name="map-pin" size={24} color={'#2130bb'} />
+                    <Feather name="map-pin" size={23} color={'#2130bb'} />
                     <Text
                         style={styles.locationText}
                         onPress={() =>
