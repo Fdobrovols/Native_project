@@ -73,7 +73,7 @@ export default function PostProfileItem({ id, title, photoLocation, url, geoLoca
                     />
                     <Text style={styles.commentText}>{allComments.length}</Text>
                 </TouchableOpacity>
-                <View style={{ ...styles.postData, marginLeft: 24 }}>
+                <View style={{ ...styles.postData, marginLeft: 25 }}>
                     <Feather
                         name="thumbs-up"
                         size={23}
