@@ -121,7 +121,7 @@ const styles = StyleSheet.create({
         alignItems: 'center',
         backgroundColor: '#334d63',
         position: 'fixed',
-        top: 10,
+        top: 11,
         right: 12,
         zIndex: 1,
     },
