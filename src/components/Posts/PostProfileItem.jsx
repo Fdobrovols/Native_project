@@ -69,7 +69,7 @@ export default function PostProfileItem({ id, title, photoLocation, url, geoLoca
                     <Feather
                         name={'message-circle'}
                         size={24}
-                        color={allComments.length === 0 ? '#BDBDBD' : '#00fbff'}
+                        color={allComments.length === 0 ? '#5c886e' : '#00fbff'}
                     />
                     <Text style={styles.commentText}>{allComments.length}</Text>
                 </TouchableOpacity>
