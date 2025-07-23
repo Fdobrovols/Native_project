@@ -57,7 +57,7 @@ export default function PostProfileItem({ id, title, photoLocation, url, geoLoca
                     style={styles.trashBtn}
                     onPress={() => dispatch(deletePost(id))}
                 >
-                    <Feather name="trash-2" size={20} color={'#9e9d9d'} />
+                    <Feather name="trash-2" size={21} color={'#9e9d9d'} />
                 </TouchableOpacity>
             </View>
             <Text style={styles.postTitle}>{title}</Text>
