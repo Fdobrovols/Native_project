@@ -100,7 +100,7 @@ export default function PostProfileItem({ id, title, photoLocation, url, geoLoca
 
 const styles = StyleSheet.create({
     postContainer: {
-        marginTop: 16,
+        marginTop: 17,
     },
     postPhotoWrap: {
         width: '100%',
