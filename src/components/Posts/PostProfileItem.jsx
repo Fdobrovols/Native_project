@@ -129,7 +129,7 @@ const styles = StyleSheet.create({
         marginTop: 9,
         fontFamily: 'Roboto-Medium',
         color: '#6cda35',
-        fontSize: 16,
+        fontSize: 17,
     },
     postDetails: {
         display: 'flex',
