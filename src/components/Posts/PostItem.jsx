@@ -65,7 +65,7 @@ export default function PostItem({ id, title, photoLocation, url, geoLocation })
                 <View style={{ ...styles.postComments, marginLeft: 25 }}>
                     <Feather
                         name="thumbs-up"
-                        size={24}
+                        size={22}
                         color={!userPutLike ? '#33475f' : '#6ab084'}
                         onPress={handleLikes}
                     />
