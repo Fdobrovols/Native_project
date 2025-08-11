@@ -62,7 +62,7 @@ export default function PostItem({ id, title, photoLocation, url, geoLocation })
                     <Feather name="message-circle" size={24} style={styles.postIcon} />
                     <Text style={styles.commentText}>{allComments.length}</Text>
                 </TouchableOpacity>
-                <View style={{ ...styles.postComments, marginLeft: 25 }}>
+                <View style={{ ...styles.postComments, marginLeft: 27 }}>
                     <Feather
                         name="thumbs-up"
                         size={22}
