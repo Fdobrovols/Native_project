@@ -118,7 +118,7 @@ const styles = StyleSheet.create({
         width: 29,
         borderRadius: 89,
         justifyContent: 'left',
-        alignItems: 'center',
+        alignItems: 'left',
         backgroundColor: '#334d63',
         position: 'fixed',
         top: 11,
