@@ -155,7 +155,7 @@ const styles = StyleSheet.create({
     locationText: {
         fontFamily: 'Roboto-Regular',
         color: '#3d495511',
-        fontSize: 15,
+        fontSize: 16,
         textDecorationLine: 'underline',
     },
 });
