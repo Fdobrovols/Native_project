@@ -343,7 +343,7 @@ const styles = StyleSheet.create({
     },
     formTitle: {
         fontFamily: 'Roboto-Medium',
-        color: '#369f7e',
+        color: '#271f54',
         marginBottom: 33,
         fontSize: 33,
         textAlign: 'center',
