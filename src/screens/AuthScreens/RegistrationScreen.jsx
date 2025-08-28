@@ -313,7 +313,7 @@ const styles = StyleSheet.create({
     },
     cameraBtnPos: {
         position: 'absolute',
-        bottom: 6,
+        bottom: 7,
         left: 5,
     },
     cameraRevers: {
