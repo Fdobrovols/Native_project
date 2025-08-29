@@ -323,7 +323,7 @@ const styles = StyleSheet.create({
     },
     btnAdd: {
         position: 'absolute',
-        top: 76,
+        top: 77,
         right: -13,
         width: 25,
         height: 25,
