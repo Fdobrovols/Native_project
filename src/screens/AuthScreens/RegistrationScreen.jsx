@@ -328,7 +328,7 @@ const styles = StyleSheet.create({
         width: 25,
         height: 25,
         backgroundColor: '#2d8d50',
-        borderRadius: 50,
+        borderRadius: 51,
     },
     form: {
         position: 'relative',
