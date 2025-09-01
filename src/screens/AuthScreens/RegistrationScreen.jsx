@@ -297,7 +297,7 @@ const styles = StyleSheet.create({
     },
     avatarWrap: {
         position: 'absolute',
-        top: -30,
+        top: -20,
         left: '30%',
         transform: [{ translateX: -25 }],
         width: 120,
