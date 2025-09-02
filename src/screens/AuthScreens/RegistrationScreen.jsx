@@ -289,7 +289,7 @@ const styles = StyleSheet.create({
         justifyContent: 'flex-end',
     },
     backgroundImage: {
-        flex: 2,
+        flex: 3,
         resizeMode: 'cover',
         justifyContent: 'flex-end',
         width: '89%',
