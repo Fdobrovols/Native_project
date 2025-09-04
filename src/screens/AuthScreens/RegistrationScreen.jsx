@@ -318,7 +318,7 @@ const styles = StyleSheet.create({
     },
     cameraRevers: {
         position: 'fixed',
-        top: 6,
+        top: 7,
         right: 2,
     },
     btnAdd: {
