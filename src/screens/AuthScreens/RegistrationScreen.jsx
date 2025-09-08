@@ -293,7 +293,7 @@ const styles = StyleSheet.create({
         resizeMode: 'cover',
         justifyContent: 'flex-end',
         width: '89%',
-        height: '13%',
+        height: '14%',
     },
     avatarWrap: {
         position: 'absolute',
