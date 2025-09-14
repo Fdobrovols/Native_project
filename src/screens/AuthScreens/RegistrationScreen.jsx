@@ -283,7 +283,7 @@ export default function RegisterScreen() {
 
 const styles = StyleSheet.create({
     container: {
-        flex: 2,
+        flex: 1,
         backgroundColor: '#39704f',
         alignItems: 'left',
         justifyContent: 'flex-end',
