@@ -308,7 +308,7 @@ const styles = StyleSheet.create({
     avatar: {
         width: 120,
         height: 120,
-        borderRadius: 16,
+        borderRadius: 17,
         backgroundColor: '#406b71',
     },
     cameraBtnPos: {
