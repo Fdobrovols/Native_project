@@ -123,7 +123,7 @@ const styles = StyleSheet.create({
         position: 'fixed',
         top: 12,
         right: 13,
-        zIndex: 2,
+        zIndex: 3,
     },
     postTitle: {
         marginTop: 9,

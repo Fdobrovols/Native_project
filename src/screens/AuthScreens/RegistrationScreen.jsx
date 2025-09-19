@@ -289,7 +289,7 @@ const styles = StyleSheet.create({
         justifyContent: 'flex-end',
     },
     backgroundImage: {
-        flex: 4s,
+        flex: 4,
         resizeMode: 'cover',
         justifyContent: 'flex-end',
         width: '89%',
@@ -297,7 +297,7 @@ const styles = StyleSheet.create({
     },
     avatarWrap: {
         position: 'absolute',
-        top: -20,
+        top: -19,
         left: '20%',
         transform: [{ translateX: -25 }],
         width: 122,
