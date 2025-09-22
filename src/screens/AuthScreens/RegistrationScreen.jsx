@@ -301,7 +301,7 @@ const styles = StyleSheet.create({
         left: '20%',
         transform: [{ translateX: -25 }],
         width: 122,
-        height: 120,
+        height: 12q,
         backgroundColor: '#8f5757',
         borderRadius: 16,
     },
