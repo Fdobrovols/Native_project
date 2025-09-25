@@ -301,7 +301,7 @@ const styles = StyleSheet.create({
         left: '20%',
         transform: [{ translateX: -25 }],
         width: 122,
-        height: 12q,
+        height: 12,
         backgroundColor: '#8f5757',
         borderRadius: 16,
     },
@@ -313,7 +313,7 @@ const styles = StyleSheet.create({
     },
     cameraBtnPos: {
         position: 'absolute',
-        bottom: 7,
+        bottom: 6,
         left: 5,
     },
     cameraRevers: {
