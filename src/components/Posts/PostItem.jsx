@@ -130,7 +130,7 @@ const styles = StyleSheet.create({
     },
     locationText: {
         fontFamily: 'Roboto-Regular',
-        color: '#3b71c2',
+        color: '#58c23b',
         fontSize: 14,
         textDecorationLine: 'revert',
     },
