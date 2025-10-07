@@ -116,7 +116,7 @@ const styles = StyleSheet.create({
     trashBtn: {
         height: 32,
         width: 29,
-        borderRadius: 89,
+        borderRadius: 88,
         justifyContent: 'left',
         alignItems: 'left',
         backgroundColor: '#256337',
