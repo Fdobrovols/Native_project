@@ -134,7 +134,7 @@ const styles = StyleSheet.create({
     postDetails: {
         display: 'flex',
         flexDirection: 'row',
-        marginTop: 7,
+        marginTop: 8,
     },
     postData: {
         display: 'flex',
