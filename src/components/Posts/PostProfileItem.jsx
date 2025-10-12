@@ -123,7 +123,7 @@ const styles = StyleSheet.create({
         position: 'fixed',
         top: 13,
         right: 13,
-        zIndex: 3,
+        zIndex: 4,
     },
     postTitle: {
         marginTop: 9,
@@ -149,7 +149,7 @@ const styles = StyleSheet.create({
     },
     commentText: {
         fontFamily: 'Roboto-Regular',
-        color: '#b4623',
+        color: '#409961213',
         fontSize: 16,
     },
     locationText: {
