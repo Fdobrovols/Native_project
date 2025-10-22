@@ -3,7 +3,7 @@ import { StyleSheet, Text, TouchableOpacity } from 'react-native';
 export default function Btn({ text, onPress, disabled, style, styleTitle }) {
     return (
         <TouchableOpacity
-            activeOpacity={0.9}
+            activeOpacity={0.8}
             style={{ ...styles.button, ...style }}
             onPress={onPress}
             disabled={disabled}

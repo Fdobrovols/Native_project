@@ -141,7 +141,7 @@ export default function LoginScreen() {
         </TouchableWithoutFeedback>
     );
 }
-
+ 
 const styles = StyleSheet.create({
     container: {
         flex: 2,
@@ -149,6 +149,7 @@ const styles = StyleSheet.create({
         alignItems: 'left',
         justifyContent: 'space-evenly',
     },
+    
     backgroundImage: {
         flex: 4,
         resizeMode: 'cover',
