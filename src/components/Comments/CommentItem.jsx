@@ -22,7 +22,7 @@ export default function CommentItem({ comment, owner, createdAt }) {
             <View
                 style={{
                     ...styles.commentWrap,
-                    borderTopLeftRadius: userId !== owner.userId ? 0 : 6,
+                    borderTopLeftRadius: userId !== owner.userId ? 0 : 5,
                     borderTopRightRadius: userId !== owner.userId ? 6 : 0,
                 }}
             >
