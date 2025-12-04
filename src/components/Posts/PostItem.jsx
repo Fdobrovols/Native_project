@@ -93,7 +93,7 @@ const styles = StyleSheet.create({
         width: '90%',
         height: 240,
         backgroundColor: '#763939',
-        borderRadius: 8,
+        borderRadius: 7,
     },
     postPhoto: {
         width: '100%',
@@ -103,7 +103,7 @@ const styles = StyleSheet.create({
     postTitle: {
         marginTop: 8,
         fontFamily: 'Roboto-Medium',
-        color: '#1c0e38',
+        color: '#4a7458',
         fontSize: 16,
     },
     postDetails: {
