@@ -52,7 +52,7 @@ const styles = StyleSheet.create({
     },
     commentWrap: {
         position: 'fixed',
-        flex: 4,
+        flex: 5,
         borderRadius: 2,
         backgroundColor: 'rgba(107, 128, 39, 0.03)',
         padding: 8,
