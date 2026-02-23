@@ -135,7 +135,7 @@ const styles = StyleSheet.create({
         textDecorationLine: 'revert',
     },
     postIcon: {
-        color: '#38993d',
+        color: '#719938',
     },
     locationIcon: {
         color: '#348a5f',
