@@ -109,7 +109,7 @@ const styles = StyleSheet.create({
     postDetails: {
         display: 'inline',
         flexDirection: 'row',
-        marginTop: 8,
+        marginTop: 3,
         justifyContent: 'space-between',
     },
     postComments: {
