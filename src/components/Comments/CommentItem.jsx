@@ -78,6 +78,6 @@ const styles = StyleSheet.create({
         fontSize: 8,
         position: 'fixed',
         bottom: 14,
-        left: 17,
+        left: 16,
     },
 });
