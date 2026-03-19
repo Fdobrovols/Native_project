@@ -141,7 +141,7 @@ export default function LoginScreen() {
         </TouchableWithoutFeedback>
     );
 }
- 
+
 const styles = StyleSheet.create({
     container: {
         flex: 2,
@@ -149,7 +149,7 @@ const styles = StyleSheet.create({
         alignItems: 'left',
         justifyContent: 'space-evenly',
     },
-    
+
     backgroundImage: {
         flex: 4,
         resizeMode: 'cover',
@@ -160,7 +160,7 @@ const styles = StyleSheet.create({
     form: {
         position: 'relative',
         paddingTop: 18,
-        paddingBottom: 33,
+        paddingBottom: 32,
         paddingHorizontal: 14,
         borderTopStartRadius: 17,
         borderTopEndRadius: 26,
