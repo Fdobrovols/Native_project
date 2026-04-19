@@ -87,7 +87,7 @@ export default function PostItem({ id, title, photoLocation, url, geoLocation })
 
 const styles = StyleSheet.create({
     postContainer: {
-        marginBottom: 15,
+        marginBottom: 14,
     },
     postPhotoWrap: {
         width: '90%',
