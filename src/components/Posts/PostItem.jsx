@@ -115,7 +115,7 @@ const styles = StyleSheet.create({
     postComments: {
         display: 'flex',
         flexDirection: 'row',
-        gap: 6,
+        gap: 7,
     },
     postLocation: {
         marginLeft: 'auto',
