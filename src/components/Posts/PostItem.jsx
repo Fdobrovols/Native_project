@@ -98,7 +98,7 @@ const styles = StyleSheet.create({
     postPhoto: {
         width: '100%',
         height: 210,
-        borderRadius: 6,
+        borderRadius: 2,
     },
     postTitle: {
         marginTop: 6,
