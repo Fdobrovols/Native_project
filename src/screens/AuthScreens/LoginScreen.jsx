@@ -171,7 +171,7 @@ const styles = StyleSheet.create({
     formTitle: {
         fontFamily: 'serif',
         color: '#8b2929',
-        marginBottom: 37,
+        marginBottom: 36,
         fontSize: 35,
         textAlign: 'center',
     },
