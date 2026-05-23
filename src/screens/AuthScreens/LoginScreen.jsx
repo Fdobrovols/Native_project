@@ -182,7 +182,7 @@ const styles = StyleSheet.create({
         backgroundColor: '#524c7d',
         borderWidth: 4,
         color: '#28ab61',
-        padding: 17,
+        padding: 16,
         marginBottom: 18,
     },
     btnShowPassword: {
