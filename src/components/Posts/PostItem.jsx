@@ -104,12 +104,12 @@ const styles = StyleSheet.create({
         marginTop: 7,
         fontFamily: 'Roboto-Medium',
         color: '#4a4f74',
-        fontSize: 13,
+        fontSize: 14,
     },
     postDetails: {
         display: 'inline',
         flexDirection: 'row',
-        marginTop: 3,
+        marginTop: 4,
         justifyContent: 'space-between',
     },
     postComments: {
