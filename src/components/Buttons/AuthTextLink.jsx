@@ -22,7 +22,7 @@ const styles = StyleSheet.create({
     },
     text: {
         marginTop: 13,
-        color: '#359d38',
+        color: '#22244e',
         textAlign: 'right',
     },
 });
