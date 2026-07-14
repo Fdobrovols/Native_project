@@ -23,7 +23,7 @@ export default function CommentItem({ comment, owner, createdAt }) {
                 style={{
                     ...styles.commentWrap,
                     borderTopLeftRadius: userId !== owner.userId ? 0 : 5,
-                    borderTopRightRadius: userId !== owner.userId ? 4 : 0,
+                    borderTopRightRadius: userId !== owner.userId ? 4 : 1,
                 }}
             >
                 <Text style={styles.comment}>{comment}</Text>
