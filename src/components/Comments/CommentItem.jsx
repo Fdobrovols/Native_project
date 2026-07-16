@@ -59,7 +59,7 @@ const styles = StyleSheet.create({
         gap: 3,
     },
     comment: {
-        marginBottom: 2,
+        marginBottom: 1,
         fontFamily: 'cursive',
         color: '#428a70',
         fontSize: 17,
