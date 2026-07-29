@@ -103,7 +103,7 @@ const styles = StyleSheet.create({
     postTitle: {
         marginTop: 7,
         fontFamily: 'Roboto-Medium',
-        color: '#4a4f74',
+        color: '#51814c',
         fontSize: 12,
     },
     postDetails: {
