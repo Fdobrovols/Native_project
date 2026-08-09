@@ -62,7 +62,7 @@ const styles = StyleSheet.create({
         marginBottom: 2,
         fontFamily: 'cursive',
         color: '#428a70',
-        fontSize: 17,
+        fontSize: 12,
     },
     dateUser: {
         fontFamily: 'serif',
