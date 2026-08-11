@@ -66,7 +66,7 @@ const styles = StyleSheet.create({
     },
     dateUser: {
         fontFamily: 'serif',
-        color: '#2e5a59ff',
+        color: '#2e385a',
         fontSize: 6,
         position: 'fixed',
         bottom: 15,
