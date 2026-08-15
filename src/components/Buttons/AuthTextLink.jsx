@@ -17,7 +17,7 @@ export default function AuthTextLink({ text, linkText, onPress }) {
 const styles = StyleSheet.create({
     wrap: {
         flexDirection: 'row',
-        justifyContent: 'center',
+        justifyContent: 'right',
         gap: 5,
     },
     text: {
