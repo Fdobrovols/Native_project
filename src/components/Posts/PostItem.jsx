@@ -104,7 +104,7 @@ const styles = StyleSheet.create({
         marginTop: 7,
         fontFamily: 'Roboto-Medium',
         color: '#51814c',
-        fontSize: 12,
+        fontSize: 15,
     },
     postDetails: {
         display: 'inline',
