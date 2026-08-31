@@ -101,7 +101,7 @@ const styles = StyleSheet.create({
         borderRadius: 1,
     },
     postTitle: {
-        marginTop: 7,
+        marginTop: 8,
         fontFamily: 'Roboto-Medium',
         color: '#51814c',
         fontSize: 15,
