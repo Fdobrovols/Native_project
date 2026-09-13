@@ -121,7 +121,7 @@ const styles = StyleSheet.create({
         marginLeft: 'auto',
         display: 'flex',
         flexDirection: 'row',
-        gap: 4,
+        gap: 2,
     },
     commentText: {
         fontFamily: 'Roboto-Regular',
