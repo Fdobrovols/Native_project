@@ -131,7 +131,7 @@ const styles = StyleSheet.create({
     locationText: {
         fontFamily: 'Roboto-Regular',
         color: '#3b9ec2',
-        fontSize: 16,
+        fontSize: 12,
         textDecorationLine: 'revert',
     },
     postIcon: {
