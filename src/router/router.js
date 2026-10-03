@@ -61,7 +61,7 @@ export const useRoute = isAuth => {
             />
             <Stack.Screen
                 options={{
-                    title: 'Мапа',
+                    title: 'Карта',
                 }}
                 name="Map"
                 component={MapScreen}
