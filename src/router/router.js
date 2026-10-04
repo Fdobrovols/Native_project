@@ -63,7 +63,7 @@ export const useRoute = isAuth => {
                 options={{
                     title: 'Карта',
                 }}
-                name="Map"
+                name="Cards"
                 component={MapScreen}
             />
         </Stack.Navigator>
