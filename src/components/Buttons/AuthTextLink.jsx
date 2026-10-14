@@ -21,7 +21,7 @@ const styles = StyleSheet.create({
         gap: 1,
     },
     text: {
-        marginTop: 12,
+        marginTop: 11,
         color: '#22244e',
         textAlign: 'right',
     },
