@@ -84,7 +84,7 @@ export default function LoginScreen() {
                                             isFocused === 'emailAddress' ? '#FF6C00' : '#E8E8E8',
                                     },
                                 ]}
-                                placeholderTextColor={'#BDBDBD'}
+                                placeholderTextColor={'#95baa8'}
                                 placeholder="Адреса електронної пошти"
                                 value={email}
                                 textContentType="emailAddress"
