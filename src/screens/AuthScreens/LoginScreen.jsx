@@ -101,7 +101,7 @@ export default function LoginScreen() {
                                         { marginBottom: 1 },
                                         {
                                             borderColor:
-                                                isFocused === 'password' ? '#b1764c' : '#3f7560',
+                                                isFocused === 'password' ? '#b1764c' : '#23644b',
                                         },
                                     ]}
                                     placeholderTextColor={'#7f8754'}
