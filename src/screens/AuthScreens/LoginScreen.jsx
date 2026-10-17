@@ -104,7 +104,7 @@ export default function LoginScreen() {
                                                 isFocused === 'password' ? '#b1764c' : '#23644b',
                                         },
                                     ]}
-                                    placeholderTextColor={'#7f8754'}
+                                    placeholderTextColor={'#545887'}
                                     placeholder="Password"
                                     value={password}
                                     textContentType="password"
