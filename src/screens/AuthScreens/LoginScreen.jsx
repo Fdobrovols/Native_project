@@ -160,7 +160,7 @@ const styles = StyleSheet.create({
     form: {
         position: 'relative',
         paddingTop: 12,
-        paddingBottom: 34,
+        paddingBottom: 31,
         paddingHorizontal: 15,
         borderTopStartRadius: 17,
         borderTopEndRadius: 25,
