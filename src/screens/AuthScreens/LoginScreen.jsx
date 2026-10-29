@@ -154,7 +154,7 @@ const styles = StyleSheet.create({
         flex: 5,
         resizeMode: 'cover',
         justifyContent: 'space-between',
-        width: '26%',
+        width: '27%',
         height: '72%',
     },
     form: {
