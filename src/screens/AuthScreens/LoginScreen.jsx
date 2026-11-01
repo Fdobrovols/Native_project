@@ -172,7 +172,7 @@ const styles = StyleSheet.create({
         fontFamily: 'serif',
         color: '#2c7842',
         marginBottom: 36,
-        fontSize: 21,
+        fontSize: 22,
         textAlign: 'center',
     },
     input: {
