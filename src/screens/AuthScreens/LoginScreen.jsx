@@ -155,7 +155,7 @@ const styles = StyleSheet.create({
         resizeMode: 'cover',
         justifyContent: 'space-between',
         width: '28%',
-        height: '72%',
+        height: '70%',
     },
     form: {
         position: 'relative',
